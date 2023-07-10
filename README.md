@@ -1,6 +1,6 @@
 # Loki Lofi Website
 
-This project is a lofi music website built using React.js. It provides a soothing and relaxing experience for users who enjoy listening to lofi music. The website is designed to create a calming ambiance with its minimalistic and aesthetically pleasing interface. It also help in your making consistency in your studies 
+This project is a lofi music website built using React.js. It provides a soothing and relaxing experience for users who enjoy listening to lofi music. The website is designed to create a calming ambiance with its minimalistic and aesthetically pleasing interface. It also help you making consistency in your studies 
 
 
 
